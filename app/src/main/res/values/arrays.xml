@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_type">
+        <item>A social network</item>
+        <item>A tool</item>
+        <item>A game</item>
+        <item>A VR experience</item>
+        <item>A messaging app</item>
+        <item>An open source library</item>
+        <item>An education app</item>
+        <item>An AI</item>
+        <item>A dating app</item>
+        <item>A startup</item>
+    </string-array>
+
+    <string-array name="people_type">
+        <item>salesmen</item>
+        <item>programmers</item>
+        <item>teachers</item>
+        <item>housewives</item>
+        <item>truck drivers</item>
+        <item>McDonald\'s workers</item>
+        <item>house flippers</item>
+        <item>meteorologists</item>
+        <item>presidents</item>
+        <item>CTOs</item>
+        <item>professors</item>
+        <item>convicts</item>
+        <item>librarians</item>
+        <item>lifeguards</item>
+        <item>TV Show Hosts</item>
+        <item>football referees</item>
+        <item>professional athletes</item>
+        <item>garbage truck drivers</item>
+        <item>Feminists</item>
+        <item>homeless people</item>
+        <item>sweatshop workers</item>
+        <item>yoga instructors</item>
+        <item>Twitch live-streamers</item>
+        <item>Youtubers</item>
+        <item>big data</item>
+        <item>influencers</item>
+        <item>Viners</item>
+    </string-array>
+
+    <string-array name="apps">
+        <item>Youtube</item>
+        <item>Instagram</item>
+        <item>Twitch</item>
+        <item>Tinder</item>
+        <item>Uber</item>
+        <item>Facebook</item>
+        <item>Craigslist</item>
+        <item>Angry Birds</item>
+        <item>Amazon</item>
+        <item>Google</item>
+        <item>Netflix</item>
+    </string-array>
+
+    <string-array name="verbs">
+        <item>make</item>
+        <item>build</item>
+        <item>watch</item>
+        <item>create</item>
+        <item>rank</item>
+        <item>generate</item>
+        <item>see</item>
+        <item>break</item>
+        <item>buy</item>
+        <item>meet</item>
+        <item>date</item>
+        <item>find</item>
+        <item>get</item>
+        <item>hide</item>
+        <item>learn about</item>
+        <item>overcome</item>
+        <item>quit</item>
+        <item>ride</item>
+        <item>raise</item>
+    </string-array>
+
+    <string-array name="verb_ing">
+       <item>making</item>
+       <item>building</item>
+       <item>watching</item>
+       <item>creating</item>
+       <item>ranking</item>
+       <item>generating</item>
+       <item>seeing</item>
+       <item>breaking</item>
+       <item>buying</item>
+       <item>meeting</item>
+       <item>dating</item>
+       <item>finding</item>
+       <item>getting</item>
+       <item>hiding</item>
+       <item>learning about</item>
+       <item>overcoming</item>
+       <item>quitting</item>
+       <item>riding</item>
+       <item>raising</item>
+    </string-array>
+
+    <string-array name="nouns">
+       <item>Donald Trump\'s hair</item>
+       <item>cars</item>
+       <item>organic juice</item>
+       <item>hacked organic juice</item>
+       <item>Millennials</item>
+       <item>Baby Boomers</item>
+       <item>Feminists</item>
+       <item>smart phones</item>
+       <item>food</item>
+       <item>tractors</item>
+       <item>potatoes</item>
+       <item>shoes</item>
+       <item>AI</item>
+       <item>apps</item>
+       <item>laptops</item>
+       <item>lemonade</item>
+       <item>paintings</item>
+       <item>hotels</item>
+       <item>houses</item>
+       <item>cables</item>
+       <item>hair</item>
+       <item>breakfast</item>
+       <item>avocado toast</item>
+       <item>memes</item>
+       <item>subreddits</item>
+       <item>social networks</item>
+       <item>VR experiences</item>
+       <item>tools</item>
+       <item>dating apps</item>
+       <item>board games</item>
+       <item>video game consoles</item>
+       <item>robots</item>
+       <item>music streaming apps</item>
+       <item>college students</item>
+       <item>engineers</item>
+       <item>adults</item>
+       <item>flip phones</item>
+       <item>hackathons</item>
+       <item>iPhones</item>
+       <item>dorm rooms</item>
+       <item>apartments</item>
+       <item>cable TV</item>
+       <item>national parks</item>
+       <item>calculators</item>
+       <item>startups</item>
+       <item>headphones</item>
+       <item>viral videos</item>
+       <item>video games</item>
+       <item>inside jokes</item>
+    </string-array>
+
+</resources>
